@@ -8,8 +8,6 @@ public class TiposVariaveis {
 
         String meuNome = "Ricardo Carvalho";
 
-
-
         double salarioMinimo = 2500.33;
 
         short numeroCurto = 1;
